@@ -1,2 +1,2 @@
 # shopee
-https://shopee-vn.vercel.app/
+https://shopee-kappa-flax.vercel.app/
